@@ -12,7 +12,7 @@ COPY . .
 RUN pip install -r requirements.txt
 
 # Expose the port
-EXPOSE 6000
+EXPOSE 89
 
 # Server the app
 CMD ["python", "app.py"]
