@@ -1,7 +1,7 @@
 # Project Name
 jiitak-devops-intern
 
-# Brief Description
+# Description
 This project is to provide a DevOps solution for JIIT using modern tools and automation processes. It covers aspects like deployment pipelines, containerization, and cloud infrastructure management.
 
 # Base Image
